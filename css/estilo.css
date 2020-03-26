@@ -1,0 +1,7 @@
+.tela{
+	-fx-background-image: url("fundo.png");
+}
+
+.titulo{
+	-fx-background-color: white;
+}
